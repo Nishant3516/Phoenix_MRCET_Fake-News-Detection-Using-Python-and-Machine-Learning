@@ -16,19 +16,13 @@ To run the code, follow these steps:
    git clone https://github.com/yourusername/fake-news-classification.git
 ```
 
-2. Execute the env.sh file for creating the environment fakenews and kernel named "fakenews" for your project.
-
-```
-bash env.sh
-```
-
-3. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
 
 ```
    jupyter notebook fakeNews.ipynb
 ```
 
-4. Execute the code cells in sequential order.
+3. Execute the code cells in sequential order.
 
 ## Usage
 
